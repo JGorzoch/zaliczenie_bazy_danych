@@ -1,0 +1,3 @@
+Wypozycalnia samochodow klasycznych.
+Baza ma wyliczac koszty wyporzyczania aut, kto wypozyczyl jakie auto.
+Baza przechowywuje auta, cennik, klientow, pracownikow i wypozyczenia.
